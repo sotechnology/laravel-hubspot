@@ -1,15 +1,9 @@
 {
-    "name": "nirbhay94/laravel-hubspot",
-    "description": "This will create contact in hubspot and list contacts",
-    "keywords": [ "hubspot", "api","laravel" ],
+    "name": "sotechnology/laravel-hubspot",
+    "description": "This will create contact in hubspot and list contacts. Forked for Laravel 5.1 support",
+    "keywords": ["hubspot", "api", "laravel"],
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Nirbhay",
-            "email": "nirbhay@heypayless.com"
-        }
-    ],
     "require": {},
     "autoload": {
         "psr-4": {
