@@ -1,5 +1,7 @@
 <h2>This will create contact in hubspot and get all contacts from hubspot for Laravel 5</h2>
 
+Forked from nirbhay94/laravel-hubspot to support Laravel 5.1
+
 <h3>Installation</h3>
 
 1.<code>composer require nirbhay94/laravel-hubspot:dev-master</code>
